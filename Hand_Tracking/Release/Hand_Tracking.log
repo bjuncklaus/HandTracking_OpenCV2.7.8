@@ -1,0 +1,17 @@
+﻿Build started 07/05/2015 13:39:47.
+     1>Project "C:\Users\bruno-nexera\Desktop\Estudos\Hand_Tracking RED\Hand_Tracking\Hand_Tracking.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Hand_Tracking.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Hand_Tracking.vcxproj -> C:\Users\bruno-nexera\Desktop\Estudos\Hand_Tracking RED\Release\Hand_Tracking.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Hand_Tracking.unsuccessfulbuild".
+         Touching "Release\Hand_Tracking.lastbuildstate".
+     1>Done Building Project "C:\Users\bruno-nexera\Desktop\Estudos\Hand_Tracking RED\Hand_Tracking\Hand_Tracking.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
